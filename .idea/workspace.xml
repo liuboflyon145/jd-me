@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dd6b7c2-0411-4af1-9e6e-26a56bbf0df4" name="Default" comment="" />
+    <list default="true" id="2dd6b7c2-0411-4af1-9e6e-26a56bbf0df4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="jd-me.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,11 +62,12 @@
       <file leaf-file-name="KafkaConsumer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mq-me/src/main/java/KafkaConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6808874">
-              <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.86006826">
+              <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#KafkaConsumer#0;class#KafkaConsumer#0" expanded="true" />
+                <element signature="method#consume#0;class#KafkaConsumer#0" expanded="true" />
                 <element signature="e#1894#1895#0" expanded="true" />
                 <element signature="e#1939#1940#0" expanded="true" />
               </folding>
@@ -72,6 +76,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -111,7 +118,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -701,12 +708,12 @@
       <created>1481018881147</created>
       <option name="number" value="Default" />
       <updated>1481018881147</updated>
-      <workItem from="1481018886468" duration="2119000" />
+      <workItem from="1481018886468" duration="2858000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2119000" />
+    <option name="totallyTimeSpent" value="2858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -832,11 +839,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mq-me/src/main/java/KafkaConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6808874">
-          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.86006826">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#KafkaConsumer#0;class#KafkaConsumer#0" expanded="true" />
+            <element signature="method#consume#0;class#KafkaConsumer#0" expanded="true" />
             <element signature="e#1894#1895#0" expanded="true" />
             <element signature="e#1939#1940#0" expanded="true" />
           </folding>
